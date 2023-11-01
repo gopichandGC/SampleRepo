@@ -1,0 +1,3 @@
+Command to connect Bitbash With ec2-instance:
+ ssh -i Downloads/LinuxCourse-kp.pem ec2-user@65.0.177.185
+Downloads/LinuxCourse-kp.pem => path of keypair
